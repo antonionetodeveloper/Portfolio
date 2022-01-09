@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.54ddd908.css",
-    "main.js": "./static/js/main.defac4f3.js",
+    "main.css": "./static/css/main.43fa8bda.css",
+    "main.js": "./static/js/main.cd2866a6.js",
     "static/media/slogan_background.jpeg": "./static/media/slogan_background.fbd30d55713212f3dd82.jpeg",
+    "static/media/site2itnew.png": "./static/media/site2itnew.a9fc2e9ebe44f1fb48d5.png",
+    "static/media/portfolio.png": "./static/media/portfolio.3ba34e409ec33a161a16.png",
+    "static/media/site2it_old.png": "./static/media/site2it_old.dd3ce9a0dba963831011.png",
+    "static/media/SendMeAemail.png": "./static/media/SendMeAemail.d05a419b6e93b081244e.png",
     "static/media/myPhoto.jpeg": "./static/media/myPhoto.20239a4dcfe4cfe9c098.jpeg",
+    "static/media/buscaCEP.png": "./static/media/buscaCEP.b0363517bf99e69b678d.png",
+    "static/media/celular.png": "./static/media/celular.db7da84baeb749e9ba43.png",
+    "static/media/compras-online.png": "./static/media/compras-online.4d25c9e268a38ecce165.png",
     "index.html": "./index.html",
-    "main.54ddd908.css.map": "./static/css/main.54ddd908.css.map",
-    "main.defac4f3.js.map": "./static/js/main.defac4f3.js.map"
+    "main.43fa8bda.css.map": "./static/css/main.43fa8bda.css.map",
+    "main.cd2866a6.js.map": "./static/js/main.cd2866a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ddd908.css",
-    "static/js/main.defac4f3.js"
+    "static/css/main.43fa8bda.css",
+    "static/js/main.cd2866a6.js"
   ]
 }
