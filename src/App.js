@@ -1,15 +1,28 @@
 import React from "react";
 
+
 import myPhoto from "./images/myPhoto.jpeg"
+
+import monitor from "./images/icons/monitor.png"
+import phone from "./images/icons/celular.png"
+import ecomerce from "./images/icons/compras-online.png"
+
+import buscaCEP from "./images/portfolio/buscaCEP.png"
+import SendMeAemail from "./images/portfolio/SendMeAemail.png"
+import site2itnew from "./images/portfolio/site2itnew.png"
+import site2itold from "./images/portfolio/site2it_old.png"
+import portfolio from "./images/portfolio/portfolio.png"
+
 
 function App() {
   return (
     <div className="App">
+
       <header>
-        <p>Sobre mim</p>
-        <p>Serviços</p>
-        <p>Portifólio</p>
-        <p>Contato</p>
+        <a href="#aboutMe" rel="noreferrer"><p>Sobre mim</p></a>
+        <a href="#services" rel="noreferrer"><p>Serviços</p></a>
+        <a href="#portfolio" rel="noreferrer"><p>Portifólio</p></a>
+        <a href="#contact" rel="noreferrer"><p>Contato</p></a>
       </header>
 
       <main>
@@ -68,7 +81,7 @@ function App() {
 
         <section id="services">
           <div className="sites">
-            <img alt="" src={myPhoto}/>
+            <img alt="" src={monitor}/>
             <div className="subtitle">
               <h3>Criação de sites</h3>
               <p>Sites com as tecnologias HTML, <br/>CSS, JavaScript, ReactJS e MySQL</p>
@@ -76,7 +89,7 @@ function App() {
           </div>
 
           <div className="apps">
-            <img alt=""  src={myPhoto}/>
+            <img alt=""  src={phone}/>
             <div className="subtitle">
               <h3>Desenvolvimento de Apps</h3>
               <p>Para despositivos IOS e ANDROID com<br/> a tecnologia React-Native</p>
@@ -84,7 +97,7 @@ function App() {
           </div>
 
           <div className="Ecomerces">
-            <img alt=""  src={myPhoto}/>
+            <img alt=""  src={ecomerce}/>
             <div className="subtitle">
               <h3>Ecomerce</h3>
               <p>Sua loja virtual que funciona 24hrs <br/> efetuando compras 100% online</p>
@@ -96,11 +109,11 @@ function App() {
           <div className="content">
             <h2>Portifólio</h2>
             <div className="imgs">
-              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"><img alt="" src={SendMeAemail}/></a>
+              <a href="https://antonionetodeveloper.github.io/Site2it_NEW/" target="_blank" rel="noreferrer"><img alt="" src={site2itnew}/></a>
+              <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="" src={buscaCEP}/></a>
+              <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="" src={portfolio}/></a>
+              <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="" src={site2itold}/></a>
             </div>
           </div>
         </section>
@@ -118,7 +131,6 @@ function App() {
 
 
       </main>
-
     </div>
   );
 }
