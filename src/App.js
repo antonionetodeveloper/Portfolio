@@ -40,7 +40,7 @@ function App() {
               tecnologias hoje utilizadas no mercado.
               <br/><br/>
               Fundador da ideia <a href="https://antonionetodeveloper.github.io/Site2it_NEW/"
-              target="_blank">Site2it</a>,
+              target="_blank" rel="noreferrer">Site2it</a>,
               aplicativo queconecta desenvolvedores a clientes, usando 
               tecnologias do mercado para atender da melhor
               maneira seus clientes, buscando desenvolvedores
@@ -61,7 +61,7 @@ function App() {
               e projetos tomam.
               <br></br>
               <br></br>
-              <p className="descricao"><a href="https://wa.me/+5579988105028" target="_blank">Whatsapp: (79) 9 8810-5028</a> / Aracaju - SE</p>
+              <p className="descricao"><a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">Whatsapp: (79) 9 8810-5028</a> / Aracaju - SE</p>
             </text>
           </div>
         </section>
@@ -96,24 +96,24 @@ function App() {
           <div className="content">
             <h2>Portifólio</h2>
             <div className="imgs">
-              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
             </div>
           </div>
         </section>
 
         <section id="contact">
           <p>Quase sempre online, entre em contato :</p>
-          <p>Whatsapp :  <a href="https://wa.me/+5579988105028" target="_blank">(79) 9 8810-5028</a></p>
-          <p>Instagram :  <a href="https://www.instagram.com/antonio_netu/" target="_blank">@antonio_netu</a></p>
+          <p>Whatsapp :  <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">(79) 9 8810-5028</a></p>
+          <p>Instagram :  <a href="https://www.instagram.com/antonio_netu/" target="_blank" rel="noreferrer">@antonio_netu</a></p>
           <p>Email :
-            <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank"> devantonio.fer@gmail.com
+            <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"> devantonio.fer@gmail.com
             </a>
           </p>
-          <p>Feito por: <a href="https://github.com/antonionetodeveloper" target="_blank">Dev Antônio Fernandes</a></p>
+          <p>Feito por: <a href="https://github.com/antonionetodeveloper" target="_blank" rel="noreferrer">Dev Antônio Fernandes</a></p>
         </section>
 
 
