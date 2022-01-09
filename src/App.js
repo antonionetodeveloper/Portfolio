@@ -26,7 +26,7 @@ function App() {
 
         <section id="aboutMe">
           <div className="imgAndText">
-            <img src={myPhoto} className="img"></img>
+            <img alt="Foto de Antônio" src={myPhoto} className="img"></img>
             <text className="text">
               Antônio Fernandes. 
               Programador e desenvolvedor há mais de 3 anos.
@@ -68,7 +68,7 @@ function App() {
 
         <section id="services">
           <div className="sites">
-            <img src={myPhoto}/>
+            <img alt="" src={myPhoto}/>
             <div className="subtitle">
               <h3>Criação de sites</h3>
               <p>Sites com as tecnologias HTML, <br/>CSS, JavaScript, ReactJS e MySQL</p>
@@ -76,7 +76,7 @@ function App() {
           </div>
 
           <div className="apps">
-            <img src={myPhoto}/>
+            <img alt=""  src={myPhoto}/>
             <div className="subtitle">
               <h3>Desenvolvimento de Apps</h3>
               <p>Para despositivos IOS e ANDROID com<br/> a tecnologia React-Native</p>
@@ -84,7 +84,7 @@ function App() {
           </div>
 
           <div className="Ecomerces">
-            <img src={myPhoto}/>
+            <img alt=""  src={myPhoto}/>
             <div className="subtitle">
               <h3>Ecomerce</h3>
               <p>Sua loja virtual que funciona 24hrs <br/> efetuando compras 100% online</p>
@@ -96,11 +96,11 @@ function App() {
           <div className="content">
             <h2>Portifólio</h2>
             <div className="imgs">
-              <a href="#" target="_blank"><img src={myPhoto}/></a>
-              <a href="#" target="_blank"><img src={myPhoto}/></a>
-              <a href="#" target="_blank"><img src={myPhoto}/></a>
-              <a href="#" target="_blank"><img src={myPhoto}/></a>
-              <a href="#" target="_blank"><img src={myPhoto}/></a>
+              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
+              <a href="#" target="_blank"><img alt="" src={myPhoto}/></a>
             </div>
           </div>
         </section>
