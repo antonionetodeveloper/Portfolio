@@ -96,11 +96,11 @@ function App() {
           <div className="content">
             <h2>Portifólio</h2>
             <div className="imgs">
-              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
-              <a href="#" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
+              <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer"><img alt="" src={myPhoto}/></a>
             </div>
           </div>
         </section>
