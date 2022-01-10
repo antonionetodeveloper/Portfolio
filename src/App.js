@@ -54,7 +54,7 @@ function App() {
               <br/><br/>
               Fundador da ideia <a href="https://antonionetodeveloper.github.io/Site2it_NEW/"
               target="_blank" rel="noreferrer">Site2it</a>,
-              aplicativo queconecta desenvolvedores a clientes, usando 
+              aplicativo que conecta desenvolvedores a clientes, usando 
               tecnologias do mercado para atender da melhor
               maneira seus clientes, buscando desenvolvedores
               específicos para clientes específicos, 
