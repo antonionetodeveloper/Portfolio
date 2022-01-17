@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.43fa8bda.css",
-    "main.js": "./static/js/main.1cdd043e.js",
-    "static/media/slogan_background.jpeg": "./static/media/slogan_background.fbd30d55713212f3dd82.jpeg",
+    "main.css": "./static/css/main.f3798842.css",
+    "main.js": "./static/js/main.af32e5bd.js",
     "static/media/site2itnew.png": "./static/media/site2itnew.a9fc2e9ebe44f1fb48d5.png",
+    "static/media/myPhoto.png": "./static/media/myPhoto.0314d49c3cda020e90f2.png",
+    "static/media/slogan_background.jpeg": "./static/media/slogan_background.6bf533ab80c1fab13f8a.jpeg",
     "static/media/portfolio.png": "./static/media/portfolio.3ba34e409ec33a161a16.png",
     "static/media/site2it_old.png": "./static/media/site2it_old.dd3ce9a0dba963831011.png",
     "static/media/SendMeAemail.png": "./static/media/SendMeAemail.d05a419b6e93b081244e.png",
-    "static/media/myPhoto.jpeg": "./static/media/myPhoto.20239a4dcfe4cfe9c098.jpeg",
     "static/media/buscaCEP.png": "./static/media/buscaCEP.b0363517bf99e69b678d.png",
     "static/media/celular.png": "./static/media/celular.db7da84baeb749e9ba43.png",
     "static/media/compras-online.png": "./static/media/compras-online.4d25c9e268a38ecce165.png",
     "index.html": "./index.html",
-    "main.43fa8bda.css.map": "./static/css/main.43fa8bda.css.map",
-    "main.1cdd043e.js.map": "./static/js/main.1cdd043e.js.map"
+    "main.f3798842.css.map": "./static/css/main.f3798842.css.map",
+    "main.af32e5bd.js.map": "./static/js/main.af32e5bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.43fa8bda.css",
-    "static/js/main.1cdd043e.js"
+    "static/css/main.f3798842.css",
+    "static/js/main.af32e5bd.js"
   ]
 }
