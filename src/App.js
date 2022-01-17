@@ -1,7 +1,3 @@
-import React, { useEffect, useState } from "react";
-import axios from "axios";
-
-
 import myPhoto from "./images/myPhoto.png"
 
 import monitor from "./images/icons/monitor.png"
