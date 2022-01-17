@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 
 
-import myPhoto from "./images/myPhoto.jpeg"
+import myPhoto from "./images/myPhoto.png"
 
 import monitor from "./images/icons/monitor.png"
 import phone from "./images/icons/celular.png"
@@ -101,7 +101,7 @@ function App() {
             <img alt=""  src={ecomerce}/>
             <div className="subtitle">
               <h3>Ecomerce</h3>
-              <p>Sua loja virtual que funciona 24hrs <br/> efetuando compras 100% online</p>
+              <p>Agilizando vendas virtuais<br/> efetuando compras 100% online</p>
             </div>
           </div>
         </section>
