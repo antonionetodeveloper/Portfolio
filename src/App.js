@@ -1,4 +1,8 @@
+import "./styles.css"
+
 import myPhoto from "./images/myPhoto.png"
+
+import menu from "./images/icons/menu.png"
 
 import monitor from "./images/icons/monitor.png"
 import phone from "./images/icons/celular.png"
@@ -9,17 +13,33 @@ import SendMeAemail from "./images/portfolio/SendMeAemail.png"
 import site2itnew from "./images/portfolio/site2itnew.png"
 import site2itold from "./images/portfolio/site2it_old.png"
 import portfolio from "./images/portfolio/portfolio.png"
+import neflix from "./images/portfolio/netflix.png"
 
 
-function App() {
+export default function App() { 
   return (
+
     <div className="App">
 
       <header>
-        <a href="#aboutMe" rel="noreferrer"><p>Sobre mim</p></a>
-        <a href="#services" rel="noreferrer"><p>Serviços</p></a>
-        <a href="#portfolio" rel="noreferrer"><p>Portifólio</p></a>
-        <a href="#contact" rel="noreferrer"><p>Contato</p></a>
+        <a className="menuHook" href="#aboutMe" rel="noreferrer"><p>Sobre mim</p></a>
+        <a className="menuHook" href="#services" rel="noreferrer"><p>Serviços</p></a>
+        <a className="menuHook" href="#portfolio" rel="noreferrer"><p>Portifólio</p></a>
+        <a className="menuHook" href="#contact" rel="noreferrer"><p>Contato</p></a>
+
+        <nav className="mobileMenu">
+          <button 
+            className="mobileMenuButton"
+
+          >
+            <img src={menu}/>
+          </button>
+          <ul>
+            <li>
+
+            </li>
+          </ul>
+        </nav>
       </header>
 
       <main>
@@ -111,6 +131,7 @@ function App() {
               <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="" src={buscaCEP}/></a>
               <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="" src={portfolio}/></a>
               <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="" src={site2itold}/></a>
+              <a href="https://netflix-clone-ebon-sigma.vercel.app" target="_blank" rel="noreferrer"><img alt="" src={netflix}/></a>
             </div>
           </div>
         </section>
@@ -131,5 +152,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
