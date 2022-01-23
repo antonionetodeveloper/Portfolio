@@ -32,7 +32,7 @@ export default function App() {
             className="mobileMenuButton"
 
           >
-            <img src={menu}/>
+            <img src={menu} alt=""/>
           </button>
           <ul>
             <li>
