@@ -13,7 +13,7 @@ import SendMeAemail from "./images/portfolio/SendMeAemail.png"
 import site2itnew from "./images/portfolio/site2itnew.png"
 import site2itold from "./images/portfolio/site2it_old.png"
 import portfolio from "./images/portfolio/portfolio.png"
-import neflix from "./images/portfolio/netflix.png"
+import netflix from "./images/portfolio/netflix.png"
 
 
 export default function App() { 
