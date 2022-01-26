@@ -2,8 +2,6 @@ import "./styles.css"
 
 import myPhoto from "./images/myPhoto.png"
 
-import menu from "./images/icons/menu.png"
-
 import monitor from "./images/icons/monitor.png"
 import phone from "./images/icons/celular.png"
 import ecomerce from "./images/icons/compras-online.png"
