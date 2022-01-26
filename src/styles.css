@@ -187,10 +187,7 @@ body{
 
 
 @media only screen and (max-width: 900px){
-	.App{
-		position: relative;
-		bottom: 5vw;
-	}
+	
 	main{
 		display: flex;
     flex-direction: column;
@@ -210,30 +207,17 @@ body{
 	}
 
 	header{
-		height: 30vw;
+		width: 0px;
 	}
 
 	header > a{
 		display: none;
 	}
-	.mobileMenu{
-
-	}
-	.mobileMenu > button{
-		position: fixed;
-		top: 10vw;
-		width: 20%;
-		border: none;
-		background-color: white;
-		border-radius: 0px 10px 10px 0px;
-
-	}
-	.mobileMenu > button > img{
-		width: 80%;
-	}
 
 	#slogan{
 		display: block;
+		border: 1px solid;
+		border-color: white;
 		width: 98vw;
 		font-family: sans-serif;
 		background-color: rgba(0, 0, 0, 0.6);
@@ -243,6 +227,8 @@ body{
 		position: relative;
 		top: 30vw;
 		border-radius: 5vw;
+		margin-top: 22.5vw;
+		margin-bottom: 50vw;
 	}#slogan > div{
 		text-align: center;
 	}#slogan > div > h1{
@@ -261,6 +247,7 @@ body{
     flex-direction: column;
 		align-items: center;
 		margin-top: 1vw;
+		text-align: justify;
 	}#aboutMe > div > img{
 		width: 90vw;
 	}#aboutMe > div > text{
@@ -270,7 +257,71 @@ body{
     flex-direction: column;
     justify-content: center;
 		text-align: inherit;
-	}#aboutMe > div > text > p{
+	}#aboutMe > div > text > p > a{
 		color: green;
+	}
+
+
+	#services{
+		width: 100%;
+		background-color: rgb(24, 26, 27);  
+		display: flex;
+		flex-direction: column;
+		gap: 20vw;
+		padding: 20vw 0px 20vw 0px;
+
+	}#services > div{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 2vw;
+	}#services > div > div{
+		display: flex;
+		flex-direction: column;
+		align-items: center;	
+		text-align: center;
+	}h3{
+		margin: 0px;
+	}p{
+		margin: 0px;
+	}
+	#services > div >img{
+		width: 20vw;
+	}
+
+
+	#portfolio{
+		margin-top: 50vw;
+		background-color: rgb(24, 26, 27);  
+		width: 100vw;
+	}
+	#portfolio > div {
+		margin-bottom: 10vw;
+	}
+	#portfolio > div.content > h2{
+		text-align: center;
+		font-size: 12vw;
+	}
+	#portfolio > div > div{
+		display: flex;
+		flex-direction: column;
+    align-items: center;
+    gap: 5vw;
+	}
+	#portfolio > div > div > a > img{
+		width: 80vw;
+		border-radius: 3vw;
+	}
+
+
+	#contact{
+		width: 100%;
+		background-color: rgb(24, 26, 27);  
+		margin-top: 20vw;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+		gap: 5vw;
+		padding: 10vw 0vw 5vw 0vw;
 	}
 }

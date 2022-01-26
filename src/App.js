@@ -26,20 +26,6 @@ export default function App() {
         <a className="menuHook" href="#services" rel="noreferrer"><p>Serviços</p></a>
         <a className="menuHook" href="#portfolio" rel="noreferrer"><p>Portifólio</p></a>
         <a className="menuHook" href="#contact" rel="noreferrer"><p>Contato</p></a>
-
-        <nav className="mobileMenu">
-          <button 
-            className="mobileMenuButton"
-
-          >
-            <img src={menu} alt=""/>
-          </button>
-          <ul>
-            <li>
-
-            </li>
-          </ul>
-        </nav>
       </header>
 
       <main>
@@ -48,7 +34,7 @@ export default function App() {
             <h1>Antônio Fernandes</h1>
             <div className="profissions">
               <h2>Desenvolvedor Web</h2>
-              <h2>Desenvolvedor Full-Stack</h2>
+              <h2>Desenvolvedor Front-end</h2>
               <h2>Programador React</h2>
             </div>
           </div>
@@ -126,12 +112,12 @@ export default function App() {
           <div className="content">
             <h2>Portifólio</h2>
             <div className="imgs">
-              <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"><img alt="" src={SendMeAemail}/></a>
-              <a href="https://antonionetodeveloper.github.io/Site2it_NEW/" target="_blank" rel="noreferrer"><img alt="" src={site2itnew}/></a>
-              <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="" src={buscaCEP}/></a>
-              <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="" src={portfolio}/></a>
-              <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="" src={site2itold}/></a>
-              <a href="https://netflix-clone-ebon-sigma.vercel.app" target="_blank" rel="noreferrer"><img alt="" src={netflix}/></a>
+              <a href="https://site2it.com" target="_blank" rel="noreferrer"><img alt="Site2it" src={site2itnew}/></a>
+              <a href="https://netflix-clone-ebon-sigma.vercel.app" target="_blank" rel="noreferrer"><img alt="Clone da Netflix" src={netflix}/></a>
+              <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="antigo site2it" src={site2itold}/></a>
+              <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="Buscador de CEP" src={buscaCEP}/></a>
+              <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="Meu portifólio" src={portfolio}/></a>
+              <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"><img alt="Me envie um email" src={SendMeAemail}/></a>
             </div>
           </div>
         </section>
@@ -139,12 +125,13 @@ export default function App() {
         <section id="contact">
           <p>Quase sempre online, entre em contato :</p>
           <p>Whatsapp :  <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">(79) 9 8810-5028</a></p>
-          <p>Instagram :  <a href="https://www.instagram.com/antonio_netu/" target="_blank" rel="noreferrer">@antonio_netu</a></p>
+          <p>Instagram :  <a href="https://www.instagram.com/antoniofernandesdev/" target="_blank" rel="noreferrer">@antoniofernandesdev</a></p>
           <p>Email :
             <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"> devantonio.fer@gmail.com
             </a>
           </p>
-          <p>Feito por: <a href="https://github.com/antonionetodeveloper" target="_blank" rel="noreferrer">Dev Antônio Fernandes</a></p>
+          <p>Git Hub: <a href="https://github.com/antonionetodeveloper" target="_blank" rel="noreferrer">antonionetodeveloper</a></p>
+          <p>Feito por: Dev Antônio Fernandes</p>
         </section>
 
 
