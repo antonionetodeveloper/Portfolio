@@ -54,11 +54,13 @@ body{
 	}
 	
 	#slogan > div > h1{
+		margin: 0px;
 		font-size: 7vw;
 	}
 	
 	#slogan > div{
 		display: flex;
+		padding: 1vw;
 		flex-direction: column;
 		background-color: rgba(0, 0, 0, 0.6);
 		width: 90vw;
