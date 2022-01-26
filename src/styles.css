@@ -323,5 +323,8 @@ body{
 		flex-direction: column;
 		gap: 5vw;
 		padding: 10vw 0vw 5vw 0vw;
+	}#contact > p > a{
+		color: #248eff;
+		text-decoration: underline;
 	}
 }
