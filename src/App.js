@@ -12,6 +12,7 @@ import site2itnew from "./images/portfolio/site2itnew.png"
 import site2itold from "./images/portfolio/site2it_old.png"
 import portfolio from "./images/portfolio/portfolio.png"
 import netflix from "./images/portfolio/netflix.png"
+import iknowui from "./images/portfolio/ikui1.png"
 
 
 export default function App() { 
@@ -112,6 +113,7 @@ export default function App() {
             <div className="imgs">
               <a href="https://site2it.com" target="_blank" rel="noreferrer"><img alt="Site2it" src={site2itnew}/></a>
               <a href="https://netflix-clone-ebon-sigma.vercel.app" target="_blank" rel="noreferrer"><img alt="Clone da Netflix" src={netflix}/></a>
+              <a href="https://i-know-ui.vercel.app" target="_blank" rel="noreferrer"><img alt="I know UI" src={iknowui}/></a>
               <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="antigo site2it" src={site2itold}/></a>
               <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="Buscador de CEP" src={buscaCEP}/></a>
               <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="Meu portifólio" src={portfolio}/></a>
