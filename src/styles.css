@@ -172,7 +172,6 @@ body{
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		gap: 2vh;
 		background-color: rgb(24, 26, 27);  
 		margin-top: 30vh;
 		height: 40vh;
@@ -327,4 +326,4 @@ body{
 		color: #248eff;
 		text-decoration: underline;
 	}
-}
+}	
