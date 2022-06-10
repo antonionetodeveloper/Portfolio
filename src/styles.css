@@ -99,7 +99,7 @@ body{
 		font-weight: 600;
 		font-family: "Roboto Slab";
 	}.text > a {
-		color: rgb(48, 48, 219);
+		color: rgb(64, 64, 255);
 		text-decoration: underline;
 	}.text > p > a{
 		color: rgb(86, 255, 86);
@@ -260,6 +260,8 @@ body{
 		text-align: inherit;
 	}#aboutMe > div > text > p > a{
 		color: green;
+	}.text > a {
+		color: rgb(64, 64, 255);
 	}
 
 
