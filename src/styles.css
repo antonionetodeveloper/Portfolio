@@ -121,7 +121,6 @@ body{
 		background-color: rgb(24, 26, 27);
 		display: flex;
 		justify-content: center;
-		position: absolute;
 	}
 	#services > div{
 		display: flex;
@@ -146,7 +145,7 @@ body{
 		background-color: rgb(24, 26, 27);  
 		height: 80vw;
 	}#portfolio > div{
-		margin-top: 90vh;
+		margin-top: 60vh;
 		position: relative;
 		top: 10vh;
 	}#portfolio > div > h2{
@@ -177,6 +176,9 @@ body{
 		height: 40vh;
 	}#contact > p, a > p{
 		text-align: center;
+	}#contact > p > a{
+		color: #248eff;
+		text-decoration: underline;
 	}
 }
 

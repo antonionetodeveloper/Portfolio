@@ -66,8 +66,8 @@ export default function App() {
               <br/><br/>
               Participou de varios projetos propostos pela UFS
               (anteriormente citada), empresas de educação,
-              COD3R, Fundação Bradesco, Curso em Video e 
-              alguns cursos na Udemy.
+              COD3R, Fundação Bradesco, Curso em Video, 
+              alguns cursos na Udemy e trabalha atualmente como freelancer na Workana.
               <br/><br/>
               Continua amando desafios e ideias inovadoras, 
               atualmente divide seu tempo entre projetos pessoais
@@ -118,7 +118,7 @@ export default function App() {
               <a href="https://loginui-azure.vercel.app" target="_blank" rel="noreferrer"><img alt="LoginUi" src={loginUi}/></a>
               <a href="https://i-know-ui.vercel.app" target="_blank" rel="noreferrer"><img alt="I know UI" src={iknowui}/></a>
               <a href="https://netflix-clone-ebon-sigma.vercel.app" target="_blank" rel="noreferrer"><img alt="Clone da Netflix" src={netflix}/></a>
-              <a href="https://antonionetodeveloper.github.io/Site2it/" target="_blank" rel="noreferrer"><img alt="antigo site2it" src={site2itold}/></a>
+              <a href="https://antonionetodeveloper.github.io/Site2it_old/" target="_blank" rel="noreferrer"><img alt="antigo site2it" src={site2itold}/></a>
               <a href="https://antonionetodeveloper.github.io/BuscaCEP/" target="_blank" rel="noreferrer"><img alt="Buscador de CEP" src={buscaCEP}/></a>
               <a href="https://antonionetodeveloper.github.io/Portfolio/" target="_blank" rel="noreferrer"><img alt="Meu portifólio" src={portfolio}/></a>
               <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"><img alt="Me envie um email" src={SendMeAemail}/></a>
@@ -129,7 +129,7 @@ export default function App() {
         <section id="contact">
           <p>Quase sempre online, entre em contato :</p>
           <p>Whatsapp :  <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">(79) 9 8810-5028</a></p>
-          <p>Instagram :  <a href="https://www.instagram.com/antoniofernandesdev/" target="_blank" rel="noreferrer">@antoniofernandesdev</a></p>
+          <p>Instagram :  <a href="https://www.instagram.com/antonio_fernandes_dev/" target="_blank" rel="noreferrer">@antoniofernandesdev</a></p>
           <p>Email :
             <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"> devantonio.fer@gmail.com
             </a>
