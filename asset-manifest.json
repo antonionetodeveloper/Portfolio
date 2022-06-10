@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.65334dd5.css",
-    "main.js": "./static/js/main.ccd8d846.js",
+    "main.css": "./static/css/main.a62ecc65.css",
+    "main.js": "./static/js/main.f8266330.js",
     "static/media/site2itnew.png": "./static/media/site2itnew.a9fc2e9ebe44f1fb48d5.png",
     "static/media/myPhoto.png": "./static/media/myPhoto.0314d49c3cda020e90f2.png",
     "static/media/netflix.png": "./static/media/netflix.fd3779bd3334bc57ac77.png",
@@ -16,11 +16,11 @@
     "static/media/celular.png": "./static/media/celular.db7da84baeb749e9ba43.png",
     "static/media/compras-online.png": "./static/media/compras-online.4d25c9e268a38ecce165.png",
     "index.html": "./index.html",
-    "main.65334dd5.css.map": "./static/css/main.65334dd5.css.map",
-    "main.ccd8d846.js.map": "./static/js/main.ccd8d846.js.map"
+    "main.a62ecc65.css.map": "./static/css/main.a62ecc65.css.map",
+    "main.f8266330.js.map": "./static/js/main.f8266330.js.map"
   },
   "entrypoints": [
-    "static/css/main.65334dd5.css",
-    "static/js/main.ccd8d846.js"
+    "static/css/main.a62ecc65.css",
+    "static/js/main.f8266330.js"
   ]
 }
