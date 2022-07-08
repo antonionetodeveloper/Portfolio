@@ -78,7 +78,7 @@ export default function App() {
               e projetos tomam.
               <br></br>
               <br></br>
-              <p className="descricao"><a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">Whatsapp: (79) 9 8810-5028</a> / Aracaju - SE</p>
+              <p className="descricao"><a href="https://wa.me/+5579988766544" target="_blank" rel="noreferrer">Whatsapp: (79) 9 8876-6544</a> / Aracaju - SE</p>
             </text>
           </div>
         </section>
@@ -128,7 +128,7 @@ export default function App() {
 
         <section id="contact">
           <p>Quase sempre online, entre em contato :</p>
-          <p>Whatsapp :  <a href="https://wa.me/+5579988105028" target="_blank" rel="noreferrer">(79) 9 8810-5028</a></p>
+          <p>Whatsapp :  <a href="https://wa.me/+5579988766544" target="_blank" rel="noreferrer">(79) 9 8876-6544</a></p>
           <p>Instagram :  <a href="https://www.instagram.com/antonio_fernandes_dev/" target="_blank" rel="noreferrer">@antoniofernandesdev</a></p>
           <p>Email :
             <a href="https://antonionetodeveloper.github.io/Send-Me-a-Email/" target="_blank" rel="noreferrer"> devantonio.fer@gmail.com
