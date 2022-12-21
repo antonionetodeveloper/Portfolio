@@ -88,7 +88,7 @@ export default function App() {
             <img alt="" src={monitor}/>
             <div className="subtitle">
               <h3>Criação de sites</h3>
-              <p>Sites com as tecnologias HTML, <br/>CSS, JavaScript, ReactJS e MySQL</p>
+              <p>Sites com as tecnologias HTML, <br/>CSS, ReactJS, Next e MongoDB</p>
             </div>
           </div>
 
